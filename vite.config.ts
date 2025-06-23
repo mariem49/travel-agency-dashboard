@@ -27,3 +27,10 @@ export default defineConfig((config) => {
     }
   };
 });
+
+
+
+
+// 👇 Juste pour forcer un redeploy Vercel
+// trigger build
+
